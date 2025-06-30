@@ -17,5 +17,5 @@ export default function handler(req, res) {
   res.status(200).json([{ msg: "Funcionando!" }]);
 }
 git add -A
-git commit -m "Renomeia API para api_temp"
+git commit -m "Renomeia api_temp para api"
 git push
